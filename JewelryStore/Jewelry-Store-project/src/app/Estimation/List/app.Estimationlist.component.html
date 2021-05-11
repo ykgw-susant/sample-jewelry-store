@@ -1,0 +1,54 @@
+<h4>All Estimation</h4>
+<hr>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="example-header">
+            <mat-form-field>
+                <input matInput (keyup)="applyFilter($event.target.value)" placeholder="Filter">
+            </mat-form-field>
+        </div>
+
+        <div class="mat-elevation-z8">
+            <table mat-table [dataSource]="dataSource" matSort class="mat-elevation-z8">
+                <!-- SchemeID Column -->
+                <ng-container matColumnDef="ESID">
+                    <th mat-header-cell *matHeaderCellDef mat-sort-header> ESID </th>
+                    <td mat-cell *matCellDef="let element"> {{element.ESID}} </td>
+                </ng-container>
+                <ng-container matColumnDef="GoldPrice">
+                    <th mat-header-cell *matHeaderCellDef mat-sort-header> Gold Price </th>
+                    <td mat-cell *matCellDef="let element"> {{element.GoldPrice}} </td>
+                </ng-container>
+                <!-- SchemeName Column -->
+                <ng-container matColumnDef="EWeight">
+                    <th mat-header-cell *matHeaderCellDef mat-sort-header> Weight </th>
+                    <td mat-cell *matCellDef="let element"> {{element.EWeight}} </td>
+                </ng-container>
+                <!-- Status Column -->
+                <ng-container matColumnDef="Discount">
+                    <th mat-header-cell *matHeaderCellDef mat-sort-header> Discount </th>
+                    <td mat-cell *matCellDef="let element"> {{element.Discount}} </td>
+                </ng-container>
+                <!-- Createddate Column -->
+                <ng-container matColumnDef="TotalAmount">
+                    <th mat-header-cell *matHeaderCellDef mat-sort-header> Total Amount </th>
+                    <td mat-cell *matCellDef="let element"> {{element.TotalAmount}} </td>
+                </ng-container>
+
+                 <!-- Createddate Column -->
+                 <ng-container matColumnDef="CreatedBy">
+                    <th mat-header-cell *matHeaderCellDef mat-sort-header> Created By </th>
+                    <td mat-cell *matCellDef="let element"> {{element.CreatedBy}} </td>
+                </ng-container>
+
+                <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+                <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+            </table>
+            <mat-paginator [length]="totalCount" [pageSize]="paginationService.pageSize" [pageSizeOptions]="paginationService.selectItemsPerPage"
+                (page)="onPageSwitch.emit($event)">
+            </mat-paginator>
+
+        </div>
+    </div>
+</div>

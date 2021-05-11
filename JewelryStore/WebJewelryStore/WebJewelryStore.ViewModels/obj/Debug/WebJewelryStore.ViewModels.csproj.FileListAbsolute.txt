@@ -1,0 +1,12 @@
+C:\Users\47700212\Angular-7-Project-with-ASP.NET-CORE-APIS\WebJewelryStore\WebJewelryStore.ViewModels\bin\Debug\WebJewelryStore.ViewModels.dll
+C:\Users\47700212\Angular-7-Project-with-ASP.NET-CORE-APIS\WebJewelryStore\WebJewelryStore.ViewModels\bin\Debug\WebJewelryStore.ViewModels.pdb
+C:\Users\47700212\Angular-7-Project-with-ASP.NET-CORE-APIS\WebJewelryStore\WebJewelryStore.ViewModels\obj\Debug\WebJewelryStore.ViewModels.csprojAssemblyReference.cache
+C:\Users\47700212\Angular-7-Project-with-ASP.NET-CORE-APIS\WebJewelryStore\WebJewelryStore.ViewModels\obj\Debug\WebJewelryStore.ViewModels.dll
+C:\Users\47700212\Angular-7-Project-with-ASP.NET-CORE-APIS\WebJewelryStore\WebJewelryStore.ViewModels\obj\Debug\WebJewelryStore.ViewModels.pdb
+C:\Users\47700212\Angular-7-Project-with-ASP.NET-CORE-APIS\WebJewelryStore\WebJewelryStore.ViewModels\obj\Debug\WebJewelryStore.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\47700212\JewelryStore\WebJewelryStore\WebJewelryStore.ViewModels\bin\Debug\WebJewelryStore.ViewModels.dll
+C:\Users\47700212\JewelryStore\WebJewelryStore\WebJewelryStore.ViewModels\bin\Debug\WebJewelryStore.ViewModels.pdb
+C:\Users\47700212\JewelryStore\WebJewelryStore\WebJewelryStore.ViewModels\obj\Debug\WebJewelryStore.ViewModels.csprojAssemblyReference.cache
+C:\Users\47700212\JewelryStore\WebJewelryStore\WebJewelryStore.ViewModels\obj\Debug\WebJewelryStore.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\47700212\JewelryStore\WebJewelryStore\WebJewelryStore.ViewModels\obj\Debug\WebJewelryStore.ViewModels.dll
+C:\Users\47700212\JewelryStore\WebJewelryStore\WebJewelryStore.ViewModels\obj\Debug\WebJewelryStore.ViewModels.pdb

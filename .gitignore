@@ -1,3 +1,8 @@
+#For SeedApp WebApp
+JewelryStore/Jewelry-Store-project/node_modules
+JewelryStore/Jewelry-Store-project//e2e
+JewelryStore/Jewelry-Store-project//dist
+
 # Logs
 logs
 *.log

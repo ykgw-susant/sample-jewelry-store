@@ -1,0 +1,16 @@
+C:\Users\47700212\Angular-7-Project-with-ASP.NET-CORE-APIS\WebJewelryStore\WebJewelryStore.Models\bin\Debug\WebJewelryStore.Models.dll
+C:\Users\47700212\Angular-7-Project-with-ASP.NET-CORE-APIS\WebJewelryStore\WebJewelryStore.Models\bin\Debug\WebJewelryStore.Models.pdb
+C:\Users\47700212\Angular-7-Project-with-ASP.NET-CORE-APIS\WebJewelryStore\WebJewelryStore.Models\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\47700212\Angular-7-Project-with-ASP.NET-CORE-APIS\WebJewelryStore\WebJewelryStore.Models\obj\Debug\WebJewelryStore.Models.csprojAssemblyReference.cache
+C:\Users\47700212\Angular-7-Project-with-ASP.NET-CORE-APIS\WebJewelryStore\WebJewelryStore.Models\obj\Debug\WebJewelryStore.Models.csproj.CopyComplete
+C:\Users\47700212\Angular-7-Project-with-ASP.NET-CORE-APIS\WebJewelryStore\WebJewelryStore.Models\obj\Debug\WebJewelryStore.Models.dll
+C:\Users\47700212\Angular-7-Project-with-ASP.NET-CORE-APIS\WebJewelryStore\WebJewelryStore.Models\obj\Debug\WebJewelryStore.Models.pdb
+C:\Users\47700212\Angular-7-Project-with-ASP.NET-CORE-APIS\WebJewelryStore\WebJewelryStore.Models\obj\Debug\WebJewelryStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\47700212\JewelryStore\WebJewelryStore\WebJewelryStore.Models\bin\Debug\WebJewelryStore.Models.dll
+C:\Users\47700212\JewelryStore\WebJewelryStore\WebJewelryStore.Models\bin\Debug\WebJewelryStore.Models.pdb
+C:\Users\47700212\JewelryStore\WebJewelryStore\WebJewelryStore.Models\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\47700212\JewelryStore\WebJewelryStore\WebJewelryStore.Models\obj\Debug\WebJewelryStore.Models.csprojAssemblyReference.cache
+C:\Users\47700212\JewelryStore\WebJewelryStore\WebJewelryStore.Models\obj\Debug\WebJewelryStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\47700212\JewelryStore\WebJewelryStore\WebJewelryStore.Models\obj\Debug\WebJewelryStore.Models.csproj.CopyComplete
+C:\Users\47700212\JewelryStore\WebJewelryStore\WebJewelryStore.Models\obj\Debug\WebJewelryStore.Models.dll
+C:\Users\47700212\JewelryStore\WebJewelryStore\WebJewelryStore.Models\obj\Debug\WebJewelryStore.Models.pdb
